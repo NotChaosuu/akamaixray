@@ -119,7 +119,7 @@ This project exists to make anti-bot detection stacks understandable — to defe
 
 If you spot a factual error, open an issue or a PR with the source. If you're a defender running Akamai and want a semantic label added to a cookie or header you're seeing, same thing.
 
-## Related tools by the same author
+## Similar Tools Which I uploaded 
 
 - [wafprobe](https://github.com/NotChaosuu/wafprobe) — multi-vendor WAF / anti-bot detection from the request-side TLS fingerprint dimension
 - [apkxray](https://github.com/NotChaosuu/apkxray) — Android APK triage (secrets, SDKs, endpoints, deep links)
@@ -128,7 +128,7 @@ If you spot a factual error, open an issue or a PR with the source. If you're a 
 
 ---
 
-**Chaosuu** | independent research on anti-bot systems and web/API security.
+**Chaosuu** | I'm an independent researcher who works on anti-bot systems and web/API security.
 
 - GitHub: [NotChaosuu](https://github.com/NotChaosuu)
 - Telegram: [t.me/chaosuudev](https://t.me/chaosuudev)
