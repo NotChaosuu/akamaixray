@@ -1,0 +1,23 @@
+akamaixray
+akamaixray.exe
+/dist
+/bin
+*.out
+*.log
+
+# local-only scratch
+TELEGRAM_POST.md
+TEST_COMMANDS.md
+PRE_PUSH_CHECKLIST.md
+notes.md
+scratch/
+
+# captures + raw research artifacts
+captures/
+*.sensor
+*.har
+
+# tooling
+.idea/
+.vscode/
+.DS_Store
