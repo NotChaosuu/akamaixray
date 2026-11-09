@@ -13,7 +13,7 @@ import (
 	"github.com/NotChaosuu/akamaixray/internal/report"
 )
 
-const version = "0.1.0"
+const version = "0.1.1"
 
 // headerList collects repeated --header flags.
 type headerList []string
